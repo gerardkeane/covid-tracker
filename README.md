@@ -1,5 +1,6 @@
 # covid-tracker
 
+![preview image](preview.png)
 ## Project setup
 ```
 npm install
